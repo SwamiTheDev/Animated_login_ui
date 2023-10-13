@@ -1,13 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;800&display=swap");
 
 :root {
-  --main-color: #6dd5ed;
-  --secondary-color: #2193b0;
-  --gradient: linear-gradient(
-    135deg,
-    var(--main-color),
-    var(--secondary-color)
-  );
+  --main-color: #dc9ef9;
+  --secondary-color: #a230f8;
+  --gradient: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
 }
 
 * {
